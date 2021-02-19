@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	char a = 'a';
+	char a = 'a'; // 초기화
 	if(isupper(a)==0)
 	{
 		printf("소문자입니다.\n");
